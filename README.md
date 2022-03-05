@@ -48,7 +48,7 @@
 ## 使用及测试
 
 ```html
-<script src="https://unpkg.com/browserEventLoop-event-loop"></script> 
+<script src="https://unpkg.com/browser-event-loop"></script> 
 
 <script >
   window.onload = function () {

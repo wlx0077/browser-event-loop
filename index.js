@@ -92,7 +92,6 @@ window.browserEventLoop = (function () {
   // 浏览器渲染视图
   function render() {
     // 浏览器页面渲染...
-    console.log('浏览器页面渲染！！！');
   }
 
   function onError(err) {

@@ -1,6 +1,6 @@
 {
   "name": "browser-event-loop",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "browser-event-loop, 模拟浏览器事件循环",
   "main": "index.js",
   "scripts": {
