@@ -1,4 +1,4 @@
-# browser-event-loop
+# browserEventLoop-event-loop
 
 简易代码，模拟浏览器时间循环
 
@@ -48,14 +48,14 @@
 ## 使用及测试
 
 ```html
-<script src="https://unpkg.com/browser-event-loop"></script> 
+<script src="https://unpkg.com/browserEventLoop-event-loop"></script> 
 
 <script >
   window.onload = function () {
     // 开启浏览器调度工作
-    browser.start();
+    browserEventLoop.start();
     // 执行主函数
-    browser.runMain(main);
+    browserEventLoop.runMain(main);
 
     function main(window) {
       // 我们的代码...
@@ -72,9 +72,9 @@
 ### 例一
 ```js
 // 开启浏览器调度工作
-browser.start();
+browserEventLoop.start();
 // 执行主函数
-browser.runMain(main);
+browserEventLoop.runMain(main);
 
 // 模拟主函数（类似script），业务代码这里面
 function main(window) {
@@ -102,9 +102,9 @@ function main(window) {
 ### 例二
 ```js
 // 开启浏览器调度工作
-browser.start();
+browserEventLoop.start();
 // 执行主函数
-browser.runMain(main);
+browserEventLoop.runMain(main);
 
 // 模拟主函数（类似script），业务代码这里面
 function main(window) {
