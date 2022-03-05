@@ -1,0 +1,12 @@
+{
+  "name": "browser-event-loop",
+  "version": "1.0.0",
+  "description": "browser-event-loop, 模拟浏览器事件循环",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wanglingxu <wanglingxu@163.com>",
+  "license": "ISC"
+}
