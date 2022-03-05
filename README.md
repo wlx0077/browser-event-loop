@@ -1,4 +1,4 @@
-# browserEventLoop-event-loop
+# browser-event-loop
 
 简易代码，模拟浏览器事件循环
 
