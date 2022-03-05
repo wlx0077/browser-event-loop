@@ -1,16 +1,15 @@
 {
   "name": "browser-event-loop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "browser-event-loop, 模拟浏览器事件循环",
+  "repository": "https://github.com/wlx0077/browser-event-loop",
+  "homepage": "https://github.com/wlx0077/browser-event-loop",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "files": [
     "index.js",
     "README.md"
   ],
-  "keywords": [],
+  "keywords": ["browser", "event-loop"],
   "author": "wanglingxu <wanglingxu@163.com>",
   "license": "ISC"
 }
